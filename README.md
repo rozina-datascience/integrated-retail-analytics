@@ -54,11 +54,5 @@ joblib
 👩‍💻 Author
 
 Rozina Mohsin Pathan
-
----
-
-👉 Next Step for you:  
-1. Create a **new GitHub repo** named `integrated-retail-analytics`.  
-2. Copy this structure into your repo (I can also generate all starter files for you).  
-3. Push your Colab notebook + outputs into it.  
+ 
 
